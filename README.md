@@ -1,5 +1,7 @@
 # Global-Superstore-Analysis
 
+![](https://github.com/semilogoD/Global-Superstore-Analysis/blob/main/Global%20Superstore%20Analysis.png)
+
 ## Introduction:
 This project presents a comprehensive analysis of the Global Superstore dataset, a rich data source from a multinational online retailer based in New York with customers across 147 countries. 
 
